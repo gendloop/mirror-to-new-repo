@@ -1,0 +1,5 @@
+
+PROJECT_NAME=mirror-to-new-repo
+mirror-to-new-repo_VERSION_MAJOR=1
+mirror-to-new-repo_VERSION_MINOR=0
+mirror-to-new-repo_VERSION_PATCH=0
